@@ -1,0 +1,823 @@
+
+{
+  "defaultLocale": "no",
+  "locales": {
+    "no": {
+      "meta": {
+        "title": "Makarenko Rengjøring — flyttevask og renhold i Notodden, med åpne priser",
+        "description": "Flyttevask fra 3 200 kr, hverdagsvask, hyttevask og gjestebytte i Notodden og Telemark. Se prisene og sjekklista før du ringer. Ring eller send SMS til Mykola.",
+        "keywords": "flyttevask Notodden, vaskehjelp Notodden, renhold Notodden, hyttevask Telemark, rengjøring Notodden, gjestebytte Airbnb Notodden",
+        "lang": "no"
+      },
+      "brand": {
+        "name": "Makarenko",
+        "type": "Rengjøring"
+      },
+      "units": {
+        "kr": "kr",
+        "m2": "m²",
+        "from": "fra",
+        "to": "til"
+      },
+      "contact": {
+        "kicker": "Ring eller skriv",
+        "title": "Ring, send SMS, eller",
+        "mark": "fyll ut skjemaet.",
+        "lede": "Det raskeste er å ringe. Skjemaet er for deg som heller vil skrive, og Mykola svarer på telefon eller SMS.",
+        "watermark": "Ring",
+        "callLabel": "Ring",
+        "smsLabel": "Send SMS",
+        "emailLabel": "E-post",
+        "phoneDisplay": "+47 966 84 397",
+        "phoneBig": "+47 966 84 397",
+        "phoneHref": "tel:+4796684397",
+        "smsHref": "sms:+4796684397",
+        "email": "ishop.inform@gmail.com",
+        "emailHref": "mailto:ishop.inform@gmail.com",
+        "place": "Notodden",
+        "channelsTitle": "Slik når du meg",
+        "channels": [
+          {
+            "k": "Telefon",
+            "v": "Mykola svarer selv"
+          },
+          {
+            "k": "SMS",
+            "v": "Svar så snart han kan"
+          },
+          {
+            "k": "Skjema",
+            "v": "Svar på telefon eller SMS"
+          }
+        ],
+        "addressLabel": "Adresse",
+        "trust": "Endelig pris etter avklaring, før jobben starter.",
+        "image": "https://images.pexels.com/photos/4440624/pexels-photo-4440624.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "alt": "Smilende kvinne som tar på seg rosa gummihansker",
+        "form": {
+          "title": "Be om pris",
+          "name": "Navn",
+          "namePh": "Fornavn og etternavn",
+          "phone": "Telefon",
+          "phonePh": "8 siffer",
+          "service": "Hva skal vaskes?",
+          "serviceChoose": "Velg tjeneste",
+          "services": [
+            "Flyttevask",
+            "Hverdagsvask",
+            "Storvask",
+            "Hyttevask",
+            "Gjestebytte for utleie",
+            "Vindusvask",
+            "Byggvask etter oppussing",
+            "Bedrift eller borettslag",
+            "Noe annet"
+          ],
+          "area": "Areal i m²",
+          "areaPh": "For eksempel 65",
+          "date": "Ønsket dato",
+          "message": "Melding (valgfritt)",
+          "messagePh": "Adresse, etasje eller andre ting jeg bør vite",
+          "submit": "Send forespørsel",
+          "sending": "Sender …",
+          "errRequired": "Fyll ut dette feltet",
+          "errPhone": "Skriv inn et telefonnummer",
+          "errService": "Velg hva som skal vaskes",
+          "note": "Prisen er et anslag til du har fått endelig pris etter avklaring.",
+          "successTitle": "Takk! Forespørselen er sendt.",
+          "successText": "Mykola tar kontakt på telefon eller SMS så snart han kan.",
+          "fail": "Forespørselen kom ikke fram. Ring Mykola på +47 966 84 397, eller prøv igjen.",
+          "retry": "Prøv igjen"
+        }
+      },
+      "nav": {
+        "items": [
+          {
+            "label": "Priser",
+            "href": "#priser"
+          },
+          {
+            "label": "Kalkulator",
+            "href": "#kalkulator"
+          },
+          {
+            "label": "Sjekkliste",
+            "href": "#sjekkliste"
+          },
+          {
+            "label": "Tjenester",
+            "href": "#tjenester"
+          },
+          {
+            "label": "Hytte",
+            "href": "#hytte"
+          },
+          {
+            "label": "Spørsmål",
+            "href": "#sporsmal"
+          },
+          {
+            "label": "Kontakt",
+            "href": "#kontakt"
+          }
+        ],
+        "desktopCount": 5,
+        "call": "Ring",
+        "sms": "Send SMS",
+        "menu": "Meny",
+        "closeLabel": "Lukk",
+        "closeAria": "Lukk menyen",
+        "openAria": "Åpne menyen",
+        "homeAria": "Til toppen av siden",
+        "menuLabel": "Hovedmeny",
+        "bottomLabel": "Ring eller send SMS til Mykola"
+      },
+      "inter": {
+        "hairline": "Fra-priser i norske kroner",
+        "statement": "Fem pakker, åpne priser og",
+        "statementMark": "ett nummer som Mykola svarer på.",
+        "statementSub": "Notodden · Telemark",
+        "marquee": [
+          "Før sesongen",
+          "Mellom gjester",
+          "Etter sesongen",
+          "Bluesuka i Notodden",
+          "Nytt sengetøy mellom hver ankomst",
+          "Hytte og gjestebytte"
+        ]
+      },
+      "hero": {
+        "kicker": "Renhold i Notodden og Telemark",
+        "kickerMeta": "Mykola svarer selv",
+        "title": "Prisen du ser er",
+        "mark": "prisen du betaler.",
+        "lede": "Flyttevask, hverdagsvask og hyttevask i Notodden og Telemark. Prisene og sjekklista står her, før du ringer Mykola.",
+        "call": "Ring Mykola",
+        "sms": "Send SMS",
+        "calc": "Regn ut flyttevask",
+        "watermark": "Pris",
+        "flankL": {
+          "t": "Fra-prisen",
+          "d": "Flyttevask opptil 50 m² fra 3 200 kr, med stekeovn og kjøleskap."
+        },
+        "flankR": {
+          "t": "Telefonen",
+          "d": "Mykola svarer selv, også om org.nr. og faktura."
+        },
+        "meta": [
+          {
+            "k": "Direktenummer",
+            "v": "+47 966 84 397"
+          },
+          {
+            "k": "Kjører til",
+            "v": "10 steder i Telemark"
+          },
+          {
+            "k": "Priser",
+            "v": "Fra-priser, åpent"
+          }
+        ],
+        "card": {
+          "title": "Prislappen",
+          "sub": "Fra-priser, i norske kroner",
+          "rows": [
+            {
+              "n": "Flytteklar, opptil 50 m²",
+              "p": "3 200"
+            },
+            {
+              "n": "Hverdagsvask, per besøk",
+              "p": "1 100"
+            },
+            {
+              "n": "Storvask",
+              "p": "3 200"
+            },
+            {
+              "n": "Hyttepakke",
+              "p": "2 800"
+            },
+            {
+              "n": "Utleieklar, per bytte",
+              "p": "800"
+            }
+          ],
+          "note": "Stekeovn, kjøleskap og skap innvendig er med i flyttevasken. Endelig pris etter avklaring."
+        },
+        "ticker": [
+          "Åpne fra-priser",
+          "Sjekkliste for flyttevask",
+          "Hyttevask før og etter sesongen",
+          "Gjestebytte for utleie",
+          "Ring eller send SMS",
+          "Notodden, Heddal, Bø og Skien"
+        ],
+        "scroll": "Bla ned",
+        "video": "https://videos.pexels.com/video-files/4238760/4238760-hd_1920_1080_30fps.mp4",
+        "poster": "https://images.pexels.com/videos/4238760/pexels-photo-4238760.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200",
+        "seal": {
+          "label": "Åpne priser · Åpne priser · ",
+          "center": "fra"
+        }
+      },
+      "prices": {
+        "kicker": "Prislappen",
+        "title": "Fem pakker, og alle prisene",
+        "mark": "står her.",
+        "lede": "Ingen «ta kontakt for pris». Her er startprisen på hver pakke, og sjekklista viser hva som er med. Etter en kort avklaring på telefon får du endelig pris.",
+        "fromWord": "fra",
+        "main": "Hovedtjeneste",
+        "sig": {
+          "name": "Flytteklar",
+          "from": "3 200",
+          "per": "opptil 50 m²",
+          "range": "50–80 m²: 4 000–6 000 kr",
+          "desc": "Flyttevask med full sjekkliste: stekeovn, kjøleskap, skap innvendig, vinduer, bad og ventilasjonsrister. Du får lista før vi starter, og endelig pris etter avklaring.",
+          "tags": [
+            "Full sjekkliste",
+            "Pris før start"
+          ]
+        },
+        "cats": [
+          {
+            "label": "Flytting og storvask",
+            "items": [
+              {
+                "n": "Flytteklar, 50–80 m²",
+                "p": "4 000–6 000",
+                "u": "kr",
+                "d": "Samme sjekkliste som under 50 m², prisen følger arealet.",
+                "tag": "Sjekkliste"
+              },
+              {
+                "n": "Storvask, hele boligen",
+                "fr": true,
+                "p": "3 200",
+                "u": "kr",
+                "d": "Kjøkken, bad, innvendige vinduer og lister, 40–70 kr per m².",
+                "tag": "Etter areal"
+              }
+            ]
+          },
+          {
+            "label": "Hjemme og på jobb",
+            "items": [
+              {
+                "n": "Hverdagsvask, per besøk",
+                "fr": true,
+                "p": "1 100",
+                "u": "kr",
+                "d": "Fast vask hver 1.–2. uke, etter en plan vi lager sammen.",
+                "tag": "Fast avtale"
+              },
+              {
+                "n": "Hverdagsvask, timepris",
+                "p": "450–550",
+                "u": "kr/t",
+                "d": "Du kjenner timeprisen fra første dag."
+              },
+              {
+                "n": "Bedrift og borettslag",
+                "p": "Avtales",
+                "u": "",
+                "d": "Fast plan på papir, faste dager og faktura.",
+                "tag": "Faktura"
+              }
+            ]
+          },
+          {
+            "label": "Hytte og utleie",
+            "items": [
+              {
+                "n": "Hyttepakke, før eller etter sesong",
+                "fr": true,
+                "p": "2 800",
+                "u": "kr",
+                "d": "Hele hytta, klar for gjester eller lukket for vinteren.",
+                "tag": "Etter areal"
+              },
+              {
+                "n": "Hyttepakke, spenn etter areal",
+                "p": "2 500–6 000",
+                "u": "kr",
+                "d": "Er innkjørselen stengt om vinteren, avtaler vi kjøringen på forhånd."
+              },
+              {
+                "n": "Utleieklar, per bytte",
+                "fr": true,
+                "p": "800",
+                "u": "kr",
+                "d": "Rengjøring og nytt sengetøy mellom hver ankomst.",
+                "tag": "Airbnb"
+              },
+              {
+                "n": "Gjestebytte, spenn",
+                "p": "700–1 800",
+                "u": "kr",
+                "d": "Prisen følger boligen og hvor mye som skal byttes."
+              }
+            ]
+          }
+        ],
+        "note": "Alle priser er fra-priser i norske kroner. Endelig pris etter avklaring.",
+        "cta": "Ring for endelig pris",
+        "sms": "Send SMS",
+        "calcLink": "Regn ut flyttevask",
+        "image": "https://images.pexels.com/photos/12349434/pexels-photo-12349434.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "alt": "Hånd som tørker av en flate med mikrofiberklut"
+      },
+      "calc": {
+        "kicker": "Regnestykket",
+        "title": "Hvor stor er boligen?",
+        "mark": "Se prisen nå.",
+        "lede": "Dra i glidebryteren, så ser du spennet. Endelig pris får du etter en kort avklaring på telefon.",
+        "modeLabel": "Hva skal vaskes?",
+        "areaLabel": "Boligens areal",
+        "resultLabel": "Du kan regne med",
+        "includesLabel": "Dette er med",
+        "rateLabel": "Satsen bak regnestykket",
+        "modes": {
+          "flytting": {
+            "label": "Flyttevask",
+            "desc": "Leilighet eller hus, med full sjekkliste.",
+            "includes": "Stekeovn, kjøleskap og fryser, skap innvendig, vinduer, bad og ventilasjonsrister.",
+            "rate": "Fra 3 200 kr opptil 50 m², deretter 27–67 kr per ekstra m²."
+          },
+          "storvask": {
+            "label": "Storvask",
+            "desc": "Vår- eller høytidsvask av hele boligen.",
+            "includes": "Kjøkken, bad, innvendige vinduer og lister.",
+            "rate": "40–70 kr per m², og minst 3 200 kr."
+          },
+          "hytte": {
+            "label": "Hyttevask",
+            "desc": "Før eller etter sesongen.",
+            "includes": "Hele hytta, så den er klar for gjester eller lukket for vinteren.",
+            "rate": "Fra 2 500 kr opptil 30 m², deretter 10–16,50 kr per ekstra m²."
+          }
+        },
+        "fine": "Prisspennet er et anslag fra våre åpne satser. Mye skitt, mye ting som står igjen eller trapper kan flytte prisen. Du får beskjed før vi begynner.",
+        "cta": "Ring og få endelig pris",
+        "sms": "Send størrelsen på SMS",
+        "smsBody": "Hei Mykola! Jeg vil ha pris på {tjeneste}, omtrent {areal} m². Når kan du?",
+        "seal": {
+          "label": "Endelig pris etter avklaring · ",
+          "center": "anslag"
+        }
+      },
+      "checklist": {
+        "kicker": "Sjekklisten",
+        "title": "Utleier går etter denne lista. ",
+        "mark": "Det gjør vi også.",
+        "lede": "Fett på ventilatoren, kalk på kranene og støv i ristene er det som gir underkjent flyttevask. Kryss av for å se hva som er med.",
+        "bait": {
+          "a": "Lokkeprisen",
+          "from": "3 000",
+          "b": "Regningen",
+          "to": "4 800",
+          "text": "Stekeovn, kjøleskap og skap innvendig kom som tillegg. Slik slipper du det: alt under står i flyttevasken, og du får prisen før vi starter."
+        },
+        "cardTitle": "Flytteklar: dette gjør vi",
+        "counter": "{n} av {total} punkter avkrysset",
+        "hint": "Trykk på et punkt for å krysse det av.",
+        "markAll": "Kryss av alt",
+        "reset": "Nullstill",
+        "note": "Endelig pris etter avklaring.",
+        "cta": "Ring og bestill flyttevask",
+        "items": [
+          {
+            "name": "Stekeovn",
+            "note": "innvendig, glass og rister"
+          },
+          {
+            "name": "Kjøleskap og fryser",
+            "note": "avrimet og vasket"
+          },
+          {
+            "name": "Skap og skuffer",
+            "note": "innvendig, hele kjøkkenet"
+          },
+          {
+            "name": "Kjøkkenventilator",
+            "note": "fett fjernet, filter vasket"
+          },
+          {
+            "name": "Ventilasjonsrister",
+            "note": "støv ut av hver enkelt"
+          },
+          {
+            "name": "Bad",
+            "note": "fuger og kalkavleiringer"
+          },
+          {
+            "name": "Kraner og armaturer",
+            "note": "kalk bort, blanke"
+          },
+          {
+            "name": "Vinduer",
+            "note": "glass, karmer og vinduskarmer"
+          },
+          {
+            "name": "Gulv",
+            "note": "støvsugd og vasket"
+          },
+          {
+            "name": "Lister og sokler",
+            "note": "avtørket hele veien rundt"
+          },
+          {
+            "name": "Dører og dørkarmer",
+            "note": "fingermerker bort"
+          },
+          {
+            "name": "Speil og overflater",
+            "note": "uten striper"
+          }
+        ]
+      },
+      "keys": {
+        "kicker": "Dagen nøklene skal leveres",
+        "title": "Nøklene skal leveres",
+        "mark": "om to dager.",
+        "lede": "Tre ting går igjen hos dem som ringer i den uka. Du får svar på alle før du bestemmer deg.",
+        "colA": "Det du lurer på",
+        "colB": "Svaret",
+        "watermark": "Nøkkel",
+        "rows": [
+          {
+            "fear": "Utleier underkjenner vasken",
+            "answer": "Sjekklista over følger det utleier går etter: ventilator, kalk på kraner og støv i rister. Ring så tidlig du kan, så ser vi hva som rekkes."
+          },
+          {
+            "fear": "Regningen blir større enn avtalt",
+            "answer": "Du ser fra-prisen her, regner ut spennet og får endelig pris etter avklaring, før jobben starter. Stekeovn, kjøleskap og skap står i flyttevasken."
+          },
+          {
+            "fear": "En fremmed med nøkkelen din",
+            "answer": "Du snakker med Mykola selv, på direktenummer. Ring og still alle spørsmål før du bestemmer deg, også om org.nr. og faktura."
+          }
+        ],
+        "cta": "Ring i dag",
+        "video": "https://videos.pexels.com/video-files/6196269/6196269-hd_1280_720_25fps.mp4",
+        "poster": "https://images.pexels.com/videos/6196269/pexels-photo-6196269.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=630&w=1200"
+      },
+      "services": {
+        "kicker": "Hva vi vasker",
+        "title": "Fra stekeovnen til",
+        "mark": "trappeoppgangen.",
+        "lede": "27 slags oppdrag, samlet i seks bolker. Velg en bolk for å se hva som ligger i den.",
+        "tabsLabel": "Velg en bolk",
+        "cta": "Ring om oppdraget ditt",
+        "countLabel": "oppdrag i denne bolken",
+        "priceLink": "Se prisene",
+        "cats": [
+          {
+            "label": "Hjem",
+            "title": "Hjemme hos deg",
+            "desc": "Fast vask hver 1.–2. uke eller en enkelt gang når det trengs. Du velger hyppigheten, og vi lager en plan for hvilke rom som tas hver gang. Gulv, tepper og sofa kan tas samtidig.",
+            "image": "https://images.pexels.com/photos/7703296/pexels-photo-7703296.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+            "alt": "Kvinne som støvsuger en stue",
+            "items": [
+              "Hverdagsvask, hver 1.–2. uke",
+              "Enkeltstående rengjøring",
+              "Storvask og vårvask",
+              "Gulvpleie: vask og voksing",
+              "Teppevask",
+              "Rengjøring av sofa og trekkmøbler",
+              "Garasje, kjeller og loft"
+            ]
+          },
+          {
+            "label": "Flytting og oppussing",
+            "title": "Flytting og oppussing",
+            "desc": "Flyttevask følger sjekklista punkt for punkt, og overtakelsesvask tar boligen klar for utleier. Etter oppussing trengs byggvask, fordi vanlig vask ikke tar finstøvet fra håndverkerne.",
+            "image": "https://images.pexels.com/photos/6196567/pexels-photo-6196567.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+            "alt": "Person som vasker gulvet i en stue",
+            "items": [
+              "Flyttevask, leilighet opptil 50 m²",
+              "Flyttevask, leilighet 50–80 m²",
+              "Flyttevask, hus 120–180 m²",
+              "Overtakelsesvask for utleier",
+              "Rengjøring etter oppussing (byggvask)"
+            ]
+          },
+          {
+            "label": "Kjøkken og bad",
+            "title": "Kjøkken og bad",
+            "desc": "Det som tar tid og som du helst slipper: fuger og kalk på badet, stekeovnen, kjøleskapet som må avrimes og skapene innvendig. Kan bestilles alene eller sammen med en større vask.",
+            "image": "https://images.pexels.com/photos/10568352/pexels-photo-10568352.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+            "alt": "Ryddig kjøkkenbenk med glasskrukker",
+            "items": [
+              "Grundig baderomsvask: fuger og kalkavleiringer",
+              "Rengjøring av stekeovn",
+              "Avriming og vask av kjøleskap og fryser",
+              "Vask av kjøkkenskap innvendig",
+              "Ventilator og ventilasjonsrister"
+            ]
+          },
+          {
+            "label": "Vindu og utvendig",
+            "title": "Vindu og utvendig",
+            "desc": "Vindusvask med eller uten karmer og vinduskarmer, og høytrykksvask av terrasse, inngang og fasade. Passer før visning, før gjester kommer eller når våren endelig er her.",
+            "image": "https://images.pexels.com/photos/31435403/pexels-photo-31435403.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+            "alt": "Hånd i gul hanske som vasker vindu med gummiraker",
+            "items": [
+              "Vindusvask",
+              "Vindusvask med karmer og vinduskarmer",
+              "Høytrykksvask: terrasse, inngang og fasade"
+            ]
+          },
+          {
+            "label": "Hytte og utleie",
+            "title": "Hytte og utleie",
+            "desc": "Hyttevask før og etter sesongen og gjestebytte mellom hver ankomst, med rengjøring og nytt sengetøy. Etter en stor helg eller fest tar vi også oppryddingen.",
+            "image": "https://images.pexels.com/photos/3177257/pexels-photo-3177257.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+            "alt": "Bøtte med rengjøringsmidler og sprayflasker",
+            "items": [
+              "Hyttevask før og etter sesongen",
+              "Gjestebytte for Airbnb: rengjøring og sengetøy",
+              "Rengjøring etter gjester og fester"
+            ]
+          },
+          {
+            "label": "Bedrift og borettslag",
+            "title": "Bedrift og borettslag",
+            "desc": "Faste avtaler med faste dager og faktura, for små kontorer, salonger, klinikker, butikker og trappeoppganger. Du får en plan på papir, og vi holder oss til den.",
+            "image": "https://images.pexels.com/photos/6196685/pexels-photo-6196685.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+            "alt": "Renholdere med utstyr på vei mot et hus",
+            "items": [
+              "Kontorrengjøring, fast plan",
+              "Salonger, klinikker og butikker",
+              "Trappevask for borettslag og sameie",
+              "Verksteder og produksjonslokaler"
+            ]
+          }
+        ]
+      },
+      "cabin": {
+        "kicker": "Hytta og gjesterommet",
+        "title": "Hytta skal være klar",
+        "mark": "når gjestene åpner døra.",
+        "lede": "Telemark er fullt av hytter, og i bluesuka i Notodden tidlig i august leies det ut overalt. Jeg tar hyttevask før og etter sesongen og gjestebytte mellom hver ankomst.",
+        "watermark": "Hytte",
+        "stats": [
+          {
+            "n": "2 500–6 000",
+            "l": "Hyttepakke, etter areal"
+          },
+          {
+            "n": "700–1 800",
+            "l": "Per gjestebytte, med nytt sengetøy"
+          }
+        ],
+        "phases": [
+          {
+            "t": "Før sesongen",
+            "d": "Støv, vinduer, kjøkken og bad tas før første gjest eller første helg. Du åpner døra til en hytte som er klar."
+          },
+          {
+            "t": "Mellom gjester",
+            "d": "Rengjøring og nytt sengetøy mellom hver ankomst. I bluesuka er det mange bytter på kort tid, så ring tidlig."
+          },
+          {
+            "t": "Etter sesongen",
+            "d": "Vask før du stenger for vinteren, så du slipper å begynne våren med fjorårets skitt."
+          }
+        ],
+        "road": {
+          "t": "Innkjørselen stengt om vinteren?",
+          "d": "Si fra når du ringer. Da avtaler vi kjøringen på forhånd, og du slipper overraskelser på regningen."
+        },
+        "cta": "Ring om hytta",
+        "sms": "Send SMS"
+      },
+      "allergy": {
+        "kicker": "Hund, allergi og byggestøv",
+        "title": "Hund i huset? Allergi? Si fra ",
+        "mark": "når du ringer.",
+        "lede": "Tre ting jeg gjerne vet før jeg kommer, så jeg tar med riktig utstyr og riktige midler.",
+        "caption": "Si fra før vi begynner",
+        "blocks": [
+          {
+            "t": "Hund i huset",
+            "d": "Fortell det når du ringer. Da avtaler vi hvordan vi jobber rundt hunden og hvilke rom som tas først."
+          },
+          {
+            "t": "Allergi og lukt",
+            "d": "Har noen i huset astma eller allergi, eller tåler dere dårlig sterk lukt? Si fra, så velger vi midler deretter."
+          },
+          {
+            "t": "Etter oppussing",
+            "d": "Fint byggestøv setter seg i lister, rister og på hyller, og vanlig vask tar det ikke. Derfor er byggvask en egen jobb, og du bestiller den som det."
+          }
+        ],
+        "cta": "Ring og spør Mykola",
+        "image": "https://images.pexels.com/photos/10557902/pexels-photo-10557902.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "alt": "Hånd som holder en hvit sprayflaske mot nøytral bakgrunn"
+      },
+      "process": {
+        "kicker": "Slik går det for seg",
+        "title": "Fra første ring til",
+        "mark": "nøkkelen i hånda.",
+        "lede": "Fire steg, og du kjenner prisen før noe er avtalt.",
+        "countLabel": "steg fra første ring til ferdig vask",
+        "steps": [
+          {
+            "t": "Ring eller send SMS",
+            "d": "Si hva som skal vaskes, hvor stort det er og når du trenger det. Mykola svarer selv."
+          },
+          {
+            "t": "Du får en pris",
+            "d": "Fra-prisen kjenner du allerede. Etter noen spørsmål får du endelig pris, før noe er avtalt."
+          },
+          {
+            "t": "Vi vasker etter lista",
+            "d": "Flyttevask følger sjekklista punkt for punkt. Hverdagsvask følger planen dere har laget."
+          },
+          {
+            "t": "Du sjekker og sier ja",
+            "d": "Du går gjennom resultatet. Etterpå kan du få en SMS med lenke til Google, hvis du vil si hva du syntes."
+          }
+        ],
+        "image": "https://images.pexels.com/photos/8482859/pexels-photo-8482859.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "alt": "Hender som overleverer nøkler",
+        "caption": "Nøkkelen i hånda"
+      },
+      "about": {
+        "kicker": "Mannen på telefonen",
+        "title": "Jeg heter Mykola. Det er ",
+        "mark": "jeg som tar telefonen.",
+        "paras": [
+          "Makarenko Rengjøring er et lite firma i Notodden. Jeg vasker leiligheter, hus og hytter for privatkunder, og små kontorer og borettslag.",
+          "Til nå har kundene kommet gjennom bekjente. Prisene og sjekklista står her fordi du ikke skal måtte ringe et ukjent nummer uten å vite hva det koster. Ring, så får du meg."
+        ],
+        "quote": "Ring, så får du meg.",
+        "person": {
+          "name": "Mykola",
+          "role": "Vasker og tar telefonen selv"
+        },
+        "photoA": "https://images.pexels.com/photos/6196685/pexels-photo-6196685.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=1200&w=800",
+        "photoAAlt": "Renholdere med utstyr på vei mot et hus",
+        "photoB": "https://images.pexels.com/photos/3177257/pexels-photo-3177257.jpeg?auto=compress&cs=tinysrgb&fit=crop&h=627&w=1200",
+        "photoBAlt": "Bøtte med rengjøringsmidler og sprayflasker",
+        "caption": "Utstyret er med inn i døra",
+        "priceLink": "Se prisene",
+        "facts": [
+          {
+            "n": 27,
+            "l": "typer oppdrag"
+          },
+          {
+            "n": 10,
+            "l": "steder jeg kjører til"
+          },
+          {
+            "n": 5,
+            "l": "pakker med åpen fra-pris"
+          }
+        ],
+        "panelLabel": "Direktenummer",
+        "panelNote": "Ring eller send SMS. Spør om alt du lurer på, også org.nr. og faktura, før du bestemmer deg.",
+        "call": "Ring",
+        "sms": "Send SMS"
+      },
+      "coverage": {
+        "kicker": "Hvor vi kjører",
+        "title": "Fra Notodden sentrum til",
+        "mark": "Seljord.",
+        "lede": "Ti steder i Telemark står på lista. Hyttevask og gjestebytte tar vi også utenfor tettstedene.",
+        "countLabel": "steder på lista",
+        "watermark": "Telemark",
+        "places": [
+          {
+            "n": "Notodden",
+            "d": "sentrum"
+          },
+          {
+            "n": "Heddal",
+            "d": ""
+          },
+          {
+            "n": "Gransherad",
+            "d": ""
+          },
+          {
+            "n": "Lisleherad",
+            "d": ""
+          },
+          {
+            "n": "Tinnoset",
+            "d": ""
+          },
+          {
+            "n": "Bø",
+            "d": ""
+          },
+          {
+            "n": "Skien",
+            "d": ""
+          },
+          {
+            "n": "Ulefoss",
+            "d": ""
+          },
+          {
+            "n": "Seljord",
+            "d": ""
+          },
+          {
+            "n": "Hjuksebø",
+            "d": ""
+          }
+        ],
+        "more": "Bor du et annet sted? Ring, så ser vi på det.",
+        "mapTitle": "Kart over Notodden",
+        "mapSrc": "https://www.google.com/maps?q=Notodden%2C%20Norge&output=embed",
+        "mapLink": "https://www.google.com/maps?q=Notodden%2C%20Norge",
+        "mapLinkText": "Åpne i Google Maps"
+      },
+      "faq": {
+        "kicker": "Spørsmål folk ringer om",
+        "title": "Det folk lurer på",
+        "mark": "før de ringer.",
+        "lede": "Svarene under er de samme som jeg gir på telefon.",
+        "countLabel": "spørsmål og svar",
+        "watermark": "Svar",
+        "ctaText": "Står ikke svaret her?",
+        "cta": "Ring Mykola",
+        "items": [
+          {
+            "q": "Hva koster flyttevask?",
+            "a": "Flyttevask starter på 3 200 kr for leilighet opptil 50 m². For 50–80 m² ligger prisen mellom 4 000 og 6 000 kr. Bruk kalkulatoren for et spenn, og ring for endelig pris etter en kort avklaring."
+          },
+          {
+            "q": "Hva er med i flyttevasken?",
+            "a": "Alt på sjekklista: stekeovn, kjøleskap og fryser, skap innvendig, kjøkkenventilator og ventilasjonsrister, bad, vinduer, gulv og lister."
+          },
+          {
+            "q": "Kan prisen stige etter at jeg har sagt ja?",
+            "a": "Endelig pris settes etter avklaring, før jobben starter. Viser det seg at det er mye mer skitt enn du beskrev, sier jeg fra før jeg gjør mer."
+          },
+          {
+            "q": "Hva koster hverdagsvask?",
+            "a": "450–550 kr i timen, fra omtrent 1 100 kr per besøk. Vi avtaler om det er hver uke eller annenhver uke, og hvilke rom som tas."
+          },
+          {
+            "q": "Hvor fort kan du komme?",
+            "a": "Flyttevask har en fast leveringsdato, så ring så tidlig du kan. Da ser vi hva som lar seg gjøre før nøklene skal leveres."
+          },
+          {
+            "q": "Må jeg være hjemme?",
+            "a": "Det bestemmer du. Noen vil være til stede, andre leverer nøkkelen. Ring og snakk med meg først, så avtaler vi det som passer deg."
+          },
+          {
+            "q": "Hva med hund eller allergi?",
+            "a": "Si fra når du ringer. Da tar vi hensyn til det når vi velger midler og avtaler hvordan vi jobber i boligen."
+          },
+          {
+            "q": "Vasker dere hytter, og kommer dere når veien er stengt?",
+            "a": "Ja. Hyttevask før og etter sesongen starter på 2 800 kr. Er innkjørselen stengt om vinteren, avtaler vi kjøringen og prisen på forhånd."
+          },
+          {
+            "q": "Tar dere gjestebytte for Airbnb?",
+            "a": "Ja, fra 800 kr per bytte, vanligvis mellom 700 og 1 800 kr. Rengjøring og bytte av sengetøy mellom hver ankomst."
+          },
+          {
+            "q": "Tar dere bedrifter og borettslag?",
+            "a": "Ja: små kontorer, salonger, klinikker, butikker og trappevask for borettslag og sameie. Fast plan og faktura."
+          },
+          {
+            "q": "Hvordan betaler jeg?",
+            "a": "Bedrifter og borettslag får faktura. Privatkunder avtaler betaling når de ringer."
+          },
+          {
+            "q": "Hvorfor står prisene på nettsiden?",
+            "a": "Fordi du ikke skal måtte ringe et ukjent nummer for å finne ut om du har råd. Fra-prisene er åpne, og endelig pris kommer etter avklaring."
+          }
+        ]
+      },
+      "footer": {
+        "callLine": "Ring, så får du Mykola",
+        "tagline": "Renhold i Notodden og Telemark. Åpne fra-priser, sjekkliste og et telefonnummer som Mykola svarer på.",
+        "navTitle": "Hopp til",
+        "contactTitle": "Kontakt",
+        "washTitle": "Vi vasker",
+        "wash": [
+          "Flyttevask",
+          "Hverdagsvask",
+          "Storvask",
+          "Hyttevask",
+          "Gjestebytte for utleie",
+          "Bedrift og borettslag"
+        ],
+        "legal": "© 2026 Makarenko Rengjøring",
+        "credit": "Nettside laget av",
+        "creditName": "McRich.dev",
+        "creditHref": "https://makarich.framer.website",
+        "note": "Alle priser er fra-priser i norske kroner. Endelig pris etter avklaring.",
+        "top": "Til toppen"
+      }
+    }
+  }
+}

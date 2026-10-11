@@ -1,0 +1,10 @@
+{
+  "currency": "NOK",
+  "estimationLogic": "range",
+  "area": { "min": 20, "max": 200, "step": 5, "default": 60 },
+  "modes": {
+    "flytting": { "baseM2": 50, "baseLow": 3200, "perLow": 27, "minLow": 3200, "baseHigh": 4000, "perHigh": 67, "minHigh": 4000 },
+    "storvask": { "baseM2": 0, "baseLow": 0, "perLow": 40, "minLow": 3200, "baseHigh": 0, "perHigh": 70, "minHigh": 3500 },
+    "hytte": { "baseM2": 30, "baseLow": 2500, "perLow": 10, "minLow": 2500, "baseHigh": 3200, "perHigh": 16.5, "minHigh": 3200 }
+  }
+}
